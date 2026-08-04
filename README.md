@@ -1,7 +1,7 @@
 # 📊 Retail Sales Analytics Dashboard
 
 <p align="center">
-  <img src="RetailSalesAnalytics-Final.mp4">
+  <img src="RetailSalesAnalytics.gif">
 </p>
 
 <p align="center">

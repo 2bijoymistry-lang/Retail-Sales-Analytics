@@ -1,20 +1,37 @@
 # 📊 Retail Sales Analytics Dashboard
 
 <p align="center">
-  <img src="Dashboard.png" width="100%">
+  <img src="RetailSalesAnalytics-Final.mp4">
 </p>
 
 <p align="center">
-  <a href="RetailSalesAnalytics-Final.mp4">
-    <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="Retail_Sales_Analytics_Case_Study.pdf">
-    <img src="https://img.shields.io/badge/📄_Case_Study-blue?style=for-the-badge">
-  </a>
-  <a href="Retail Sales Analytics.pbix">
-    <img src="https://img.shields.io/badge/📥_Download_PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  </a>
+<a href="RetailSalesAnalytics-Final.mp4">
+<img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge">
+</a>
+
+<a href="Retail_Sales_Analytics_Case_Study.pdf">
+<img src="https://img.shields.io/badge/📄_Case_Study-1E90FF?style=for-the-badge">
+</a>
+
+<a href="Retail%20Sales%20Analytics.pbix">
+<img src="https://img.shields.io/badge/📥_Download_PBIX-F2C811?style=for-the-badge">
+</a>
 </p>
+
+## Tech Stack
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+Dataset Size : 50,000+ records
+Tools Used : SQL | Python | Excel | Power BI
+Dashboard Pages : 1
+KPIs : 5
+Visualizations : 8
 
 ## Project Overview
 

@@ -1,5 +1,21 @@
 # 📊 Retail Sales Analytics Dashboard
 
+<p align="center">
+  <img src="Dashboard.png" width="100%">
+</p>
+
+<p align="center">
+  <a href="RetailSalesAnalytics-Final.mp4">
+    <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="Retail_Sales_Analytics_Case_Study.pdf">
+    <img src="https://img.shields.io/badge/📄_Case_Study-blue?style=for-the-badge">
+  </a>
+  <a href="Retail Sales Analytics.pbix">
+    <img src="https://img.shields.io/badge/📥_Download_PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  </a>
+</p>
+
 ## Project Overview
 
 This is an end-to-end Data Analytics project built using SQL, Python, Excel, Power Query, DAX, and Power BI.

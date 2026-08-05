@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice,CostPrice
+P001,iPhone 15,Electronics,Mobile,28354,17952
+P002,Samsung Galaxy S24,Electronics,Mobile,34935,29315
+P003,OnePlus 12,Electronics,Mobile,31057,24017
+P004,Google Pixel 9,Electronics,Mobile,30243,18244
+P005,Nothing Phone 3,Electronics,Mobile,17215,10640
+P006,Dell Inspiron 15,Electronics,Laptop,5114,3826
+P007,HP Pavilion,Electronics,Laptop,32990,26390
+P008,Lenovo ThinkPad,Electronics,Laptop,29576,23418
+P009,MacBook Air M3,Electronics,Laptop,51050,35257
+P010,Asus Vivobook,Electronics,Laptop,71248,50740
+P011,Sony Bravia 55,Electronics,Television,10776,8585
+P012,LG Smart TV 43,Electronics,Television,72555,56757
+P013,Samsung Crystal UHD,Electronics,Television,1676,1208
+P014,Mi Smart TV,Electronics,Television,7212,5816
+P015,TCL QLED TV,Electronics,Television,50940,32626
+P016,Office Chair,Furniture,Chair,40342,23280
+P017,Gaming Chair,Furniture,Chair,74235,47155
+P018,Dining Chair,Furniture,Chair,19288,11529
+P019,Plastic Chair,Furniture,Chair,69167,50253
+P020,Wooden Chair,Furniture,Chair,48967,38006
+P021,Study Table,Furniture,Table,71318,57314
+P022,Dining Table,Furniture,Table,56166,40081
+P023,Coffee Table,Furniture,Table,76132,42234
+P024,Computer Desk,Furniture,Table,77132,48068
+P025,Side Table,Furniture,Table,33242,20212
+P026,Men T-Shirt,Clothing,Apparel,40170,31680
+P027,Women Jeans,Clothing,Apparel,20795,14583
+P028,Formal Shirt,Clothing,Apparel,79033,60255
+P029,Hoodie,Clothing,Apparel,70313,56206
+P030,Kurti,Clothing,Apparel,53504,44623
+P031,Cricket Bat,Sports,Outdoor,59899,49231
+P032,Football,Sports,Outdoor,3435,2114
+P033,Badminton Racket,Sports,Outdoor,41127,34841
+P034,Basketball,Sports,Outdoor,74221,61646
+P035,Volleyball,Sports,Outdoor,69603,46760
+P036,Yoga Mat,Sports,Fitness,62652,35719
+P037,Dumbbells,Sports,Fitness,24868,19207
+P038,Skipping Rope,Sports,Fitness,2760,1666
+P039,Resistance Band,Sports,Fitness,76228,63239
+P040,Exercise Ball,Sports,Fitness,76319,46300
+P041,Face Wash,Beauty,Skincare,15185,11796
+P042,Body Lotion,Beauty,Skincare,4153,2918
+P043,Sunscreen,Beauty,Skincare,57224,38899
+P044,Face Cream,Beauty,Skincare,64890,46667
+P045,Moisturizer,Beauty,Skincare,54618,31900
+P046,Basmati Rice 10kg,Grocery,Food,1907,1474
+P047,Cooking Oil 5L,Grocery,Food,37231,29750
+P048,Wheat Flour,Grocery,Food,12653,9922
+P049,Sugar 5kg,Grocery,Food,28560,24046
+P050,Tea Pack,Grocery,Food,38009,24153
